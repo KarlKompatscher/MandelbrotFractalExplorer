@@ -9,7 +9,7 @@ public class FractalExplorer extends JFrame {
 
     static final int WIDTH = 1000;
     static final int HEIGHT = 1500;
-    static final int MAX_INTERATION = 500;
+    static final int MAX_INTERATION = 300;
     static final double DEFAULT_ZOOM = 200.0;
     static final double DEFAUT_TOPLEFT_X = -2.5;
     static final double DEFAUT_TOPLEFT_Y = 1.7;
